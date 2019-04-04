@@ -12,3 +12,5 @@
 *.out
 
 bin
+src/github.com
+src/golang.org
